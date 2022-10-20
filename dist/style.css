@@ -121,8 +121,7 @@ header .links-to-social-media .links img {
     display: auto;
   }
   header .nav-bar .menu-list li a:hover {
-    border-radius: 4px;
-    background: none;
+    background: transparent;
     color: #243665;
   }
   header .links-to-social-media {
